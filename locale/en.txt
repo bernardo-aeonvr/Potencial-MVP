@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_05D3796E_0E93_4789_4172_939D8BFBA104.label = MVP-Potencial
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 7
